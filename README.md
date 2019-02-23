@@ -1,1 +1,1 @@
-# hello-word
+Aprendendo a usar o repositório!
